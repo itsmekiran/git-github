@@ -1,2 +1,2 @@
 # git-github
-Creating GitRepo
+Creating GitRepository
